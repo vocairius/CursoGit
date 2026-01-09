@@ -1,4 +1,4 @@
-# 🚀 Mi Primer Viaje con Git
+# 🚀 Mi Primer Repo con Git
 
 ¡Hola! Bienvenido a mi repositorio de aprendizaje. 👋
 
@@ -29,7 +29,7 @@ Este repositorio documenta mis primeros pasos en el control de versiones. Aquí 
 
 ## 👨‍💻 Autor
 
-Desarrollado por **Nicoas jiji** 🇨🇴
+Desarrollado por **Nicoas Murcia** 🇨🇴
 *Estudiante de Ingeniería Multimedia*
 
 ---
