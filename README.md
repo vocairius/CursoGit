@@ -29,7 +29,7 @@ Este repositorio documenta mis primeros pasos en el control de versiones. Aquí 
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[Tu Nombre]** 🇨🇴
+Desarrollado por **Nicoas jiji** 🇨🇴
 *Estudiante de Ingeniería Multimedia*
 
 ---
