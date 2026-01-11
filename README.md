@@ -16,7 +16,7 @@ Este repositorio documenta mis primeros pasos en el control de versiones. Aquí 
 * 📝 **Apuntes:** Notas sobre comandos clave.
 
 > [!NOTE]
-> Este proyecto está en constante evolución. Si ves ramas extrañas o commits con nombres curiosos, ¡es parte del aprendizaje!
+> El cine es la forma más pura de arte, combina los demás artes dentro de uno solo, por eso es considerado el septimo arte.
 
 ## 🛠️ Tecnologías
 
