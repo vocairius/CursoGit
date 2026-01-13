@@ -29,6 +29,21 @@ Información técnica para replicar el error:
 * **Sistema Operativo:** [ej. macOS Sequoia, Windows 11]
 * **Navegador:** [ej. Chrome, Safari]
 * **Versión del proyecto:** [ej. v1.2]
+  
+
+```mermaid
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
+```
 
 ---
 *Reporte generado con ❤️ por la comunidad.*
